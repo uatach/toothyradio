@@ -1,0 +1,7 @@
+{
+  "queue": "root.default",
+  "deploy-mode": "cluster",
+  "spark_home": "",
+  "spark_binary": "spark-submit",
+  "namespace": "default"
+}
